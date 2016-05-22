@@ -1,0 +1,20 @@
+
+
+h1{
+	
+
+  font-family: Lato;
+}
+
+.stairclimbing {
+    color red;
+
+    position: fixed;
+    /* the bottom of the button will always be
+        20px from the bottom of the window */
+    top: 170px;
+    /* the right edge of the button will always be
+        20px from the right side of the window */
+    left: 150px;
+}
+

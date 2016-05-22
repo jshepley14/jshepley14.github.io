@@ -1,0 +1,66 @@
+Qualities of a Personal Website
+
+Technical
+
+1. Your site should look good on every device
+design mobile first?
+learn about media queries!!! CSS?
+at the bottom of the file you’d have something like 
+@media screen nd (max-width: 580x) {
+#header { etc…
+
+All these styles will apply to a screen (browser) that is 480 pixels or less.
+
+2. Analytics 
+Know who’s using the website and what they’re doing on it.  Learn/Use about Google Analytics.  Make sure people aren’t just leaving after a couple of seconds. 
+
+3.  Aesthetics  Your website should reflect your skills as a developer, as well as your sense of design.
+
+**************************************************************************
+
+Informational
+
+-Mandatory
+a. contact info (e-mail)  (email button?)
+b. Projects
+-Somewhat Mandatory
+c. Social Media, github, fb, linkedin, 
+d. About me (less is more)
+Optional
+e.  if you go to joeshepley/resume then only you can see/do it but you can send it to people
+f. Other info, music, blog, photos, poetry, etc…  ?swimming?
+
+***************************************************************************
+
+Emotional
+1. Don’t be afraid to show your brand and personality.  Avoid formal language except if you’re more interested in research then maybe do formal.  But otherwise, for industry, make yourself as friendly as possible.
+
+Personal brands: not garbage idea: creative urls, recognize  example: http://evan.land/   also check out http://evan.land/resume
+
+recognizable color scheme?
+
+jhil.co
+
+sahirjaggi.github.io
+
+schlossar.io
+
+think about ratio of images to words
+
+a2.io
+
+nate.world
+
+jeffmicklos.com
+
+eunice.do
+
+dirk.to
+
+Use interesting fonts?  
+
+Don’t spend too much time on your personal website.  Build things for real people.
+
+
+
+
